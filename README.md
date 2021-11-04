@@ -1,6 +1,10 @@
 # AI
-Artificial Intelligence
-Name : Mohammed Raamizuddin
-Roll No : 19K41A0517
-Year/Sem : III/I
-Course : Artificial Intelligence
+# Artificial Intelligence
+<br/>
+# Name : Mohammed Raamizuddin
+<br/>
+# Roll No : 19K41A0517
+<br/>
+# Year/Sem : III/I
+<br/>
+
